@@ -1,4 +1,5 @@
 # GauGAN Photoshop Swatches
+![Screenshot 2022-03-03 at 11 45 55](https://user-images.githubusercontent.com/33449313/156549501-695ad776-0192-40cb-951a-ddbab753762d.jpg)
 [Nvidias GauGAN](http://gaugan.org/gaugan2/), lets you create landscapes and more with the help of segmentation maps. Those segmentation maps  have particular color associated with a material. For example the color #936e28 will let you draw Roads. 
 <img width="1000" alt="Screenshot_2022-01-18_at_09 38 54" src="https://user-images.githubusercontent.com/33449313/156547494-c17980e5-9fdb-4db8-b5c5-fd58e3468471.png">
 
