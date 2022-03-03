@@ -3,7 +3,7 @@
 [Nvidias GauGAN](http://gaugan.org/gaugan2/), lets you create landscapes and more with the help of segmentation maps. Those segmentation maps  have particular color associated with a material. For example the color #936e28 will let you draw Roads. 
 <img width="1000" alt="Screenshot_2022-01-18_at_09 38 54" src="https://user-images.githubusercontent.com/33449313/156547494-c17980e5-9fdb-4db8-b5c5-fd58e3468471.png">
 
-You can also upload segmentation maps as a PNG directly into the tool. These swatches you find here can be installed into Photoshop, to help you create segmentation maps directly from Photoshop. 
+You can also upload segmentation maps as a PNG directly into the tool. These swatches you find here can be installed into Photoshop, to help you create segmentation maps directly from Photoshop. Even though not tested, they should also work fine in GIMP.
 
 ## Installation 
 1. Simply download the file here with git or by clicking on Code → Download ZIP
