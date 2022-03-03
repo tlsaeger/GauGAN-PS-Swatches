@@ -8,7 +8,10 @@ You can also upload segmentation maps as a PNG directly into the tool. These swa
 1. Simply download the file here with git or by clicking on Code → Download ZIP
 ![Screenshot 2022-03-03 at 11 24 32](https://user-images.githubusercontent.com/33449313/156546885-0240c283-cd65-4ae9-ae03-7aeb7b95acbc.jpg)
 2. Open Photoshop → click on Window → Swatches 
-![Screenshot 2022-03-03 at 11 29 57](https://user-images.githubusercontent.com/33449313/156546940-5109f703-be00-4679-8379-898249b2c19d.jpg)
+![Screenshot 2022-03-03 at 11 29 57](https://user-images.githubusercontent.com/33449313/156549156-f878e18a-8c8d-4f3b-909a-4d90e5fe625e.jpg)
 3. Right-click somewhere in your swatches and choose Import Swatches…
 ![Screenshot 2022-03-03 at 11 27 10](https://user-images.githubusercontent.com/33449313/156546984-d12890c9-40f4-453d-8b1b-50b512a4d8fb.jpg)
 4. Locate the downloaded .aco file → click open 
+
+## Contribute 
+If you find any additional colors, feel free to open a pull request, an issue or dm me on [Twitter](https://twitter.com/tlsaeger).
